@@ -67,13 +67,13 @@ CWC Revenue = --This calculates total revenue from the customers with children
 
 **☀️ Light Mode**
 
-![Dashboard_01](https://github.com/user-attachments/assets/1986ee99-49ad-4da5-801f-3b9b918b925c)
-
+![Dashboard_01](https://github.com/user-attachments/assets/76c43ada-beea-432c-afae-b3c1c197baff)
 
 
 **🌙 Dark Mode**
 
-![Dashboard_02](https://github.com/user-attachments/assets/2207283e-dcad-42ec-8521-f9a6ece74519)
+![Dashboard_02](https://github.com/user-attachments/assets/0b5951d1-cefe-47fd-af79-e27bbe6ab417)
+
 
 
 ## 🧠 Insights & Conclusions
